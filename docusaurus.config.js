@@ -88,7 +88,6 @@ const config = {
         indexBlog: true,
         indexPages: true,
     }],
-  ]
   ],
 
   themeConfig: {
